@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "target": "ES5", // tells ts compiler which version of JS that the code it outputs must be compatible with
+        "outDir": "dist" // tells ts compiler where to saved transpiled JS it produces
+    }
+}
